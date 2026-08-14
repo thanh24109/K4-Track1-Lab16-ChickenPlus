@@ -59,11 +59,11 @@ JTBD 2 "Tạo và share knowledge base nội bộ có nguồn cho team/client"
 JTBD 3 "Quản lý sức khỏe/tài chính cá nhân qua AI có truy cập dữ liệu riêng (EMR, bank statements, wearables)"
 Switching Cost — 4 Forces
 Table
-Lực    Mô tả    Đánh giá mức độ
-Push (vấn đề với sản phẩm hiện tại)    Google Search quality declining (SEO slop, ads, AI Overviews chậm, không có citation). ChatGPT không có real-time web + hallucination.    Cao — đây là lý do chính user thử Perplexity
-Pull (sức hút cái mới)    Answer có source, nhanh, clean UI, multi-model switching, Deep Research. Comet cho phép "browse without browsing".    Cao — đặc biệt với power users
-Anxiety (nỗi lo chuyển đổi)    Hallucination risk (citation error rate 37–45% ). Privacy concern khi cho AI truy cập health/finance data. Lock-in vào ecosystem Perplexity (Spaces, Pages, Comet bookmarks).    Trung bình — đang tăng khi Perplexity đòi nhiều data cá nhân hơn
-Habit (thói quen cũ)    "Google it" = verb trong tâm trí 20+ năm. Chrome bookmarks/extensions ecosystem khổng lồ. Google ecosystem (Gmail, Drive, Calendar) deeply integrated.    Rất cao — đây là rào cản lớn nhất cho Comet và vertical products
+Lực Mô tả Đánh giá mức độ
+Push (vấn đề với sản phẩm hiện tại) Google Search quality declining (SEO slop, ads, AI Overviews chậm, không có citation). ChatGPT không có real-time web + hallucination. Cao — đây là lý do chính user thử Perplexity
+Pull (sức hút cái mới) Answer có source, nhanh, clean UI, multi-model switching, Deep Research. Comet cho phép "browse without browsing". Cao — đặc biệt với power users
+Anxiety (nỗi lo chuyển đổi) Hallucination risk (citation error rate 37–45% ). Privacy concern khi cho AI truy cập health/finance data. Lock-in vào ecosystem Perplexity (Spaces, Pages, Comet bookmarks). Trung bình — đang tăng khi Perplexity đòi nhiều data cá nhân hơn
+Habit (thói quen cũ) "Google it" = verb trong tâm trí 20+ năm. Chrome bookmarks/extensions ecosystem khổng lồ. Google ecosystem (Gmail, Drive, Calendar) deeply integrated. Rất cao — đây là rào cản lớn nhất cho Comet và vertical products
 Nhận xét: Perplexity đã thành công ở phần Push và Pull (acquisition tốt, 200% YoY growth). Nhưng Habit và Anxiety đang là bottleneck cho expansion ra ngoài core researcher segment. Đây là lý do họ chuyển sang vertical (Health/Finance) — nơi Push từ fragmented apps mạnh hơn Habit của any single app.
 §3 · Ba dự đoán hướng đi
 Dự đoán 1 — Comet Browser: Thất bại thay thế Chrome, thành công ở niche "research browser"
@@ -76,8 +76,13 @@ Dự đoán 2 — Sonar API + Enterprise sẽ vượt consumer subscription thà
 Dự đoán: Trong 12 tháng tới, Sonar API + Enterprise Pro/Max sẽ chiếm 55–60% ARR, vượt qua consumer subscription. Perplexity sẽ đạt target $656M ARR chủ yếu nhờ B2B/API, không phải Pro/Max consumer.
 Lập luận dẫn từ §1–§2:
 Từ §1 (Mốc 5): Quyết định launch Sonar chạy theo nguyên lý Picks and Shovels. §2 cho thấy consumer AI churn cực cao: AI-native products sub-$50 có GRR chỉ 23%, trong khi B2B SaaS có 63% GRR và API/enterprise có 70–85% .
-Perplexity Pro retention 6 tháng chỉ 49% so với ChatGPT Plus 71%  — consumer subscription không đủ sticky.
+Perplexity Pro retention 6 tháng chỉ 49% so với ChatGPT Plus 71% — consumer subscription không đủ sticky.
 Nhưng Sonar đã có Zoom làm early customer; Enterprise Pro ($40/seat) và Enterprise Max ($325/seat) có SOC 2, HIPAA, SSO — tạo infrastructure lock-in mà consumer UI không có. §2 cho thấy enterprise monthly churn ~1% vs consumer 4%+.
 Revert nguyên lý: Picks and Shovels đúng khi gold rush (AI adoption) đang diễn ra; B2B retention cao hơn vì switching cost không nằm ở UI mà ở integration + compliance + workflow.
 Dự đoán 3 — Vertical AI (Health/Finance) tạo moat đầu tiên nhưng đối mặt regulatory risk cao trong 12 tháng
 Dự đoán: Perplexity Health và Finance sẽ trở thành moat thực sự đầu tiên (vì personal data + compliance không portable), nhưng sẽ phải đối mặt với ít nhất 1 vụ kiện/điều tra regulatory (HIPAA hoặc SEC/financial) trong 12 tháng tới. Timeline để pass scrutiny: 18–24 tháng.
+Lập luận dẫn từ §1–§2:
+Từ §1 (Mốc 7): Quyết định làm vertical chạy theo nguyên lý Vertical AI — moat nằm ở domain expertise + data integration. Đây là câu trả lời cho vấn đề "wrapper mỏng" của Perplexity: nếu chỉ là search UI trên GPT/Claude, model thế hệ sau sẽ hấp thụ. Nhưng Health/Finance yêu cầu HIPAA compliance, kết nối EMR/bank APIs, workflows chuyên biệt — đây là thứ foundation model không tự làm được.
+Từ §2: Switching cost của AI-native horizontal products thấp (prompt portable, data dễ move). NHƯNG health/finance data không portable: EMR từ Epic/MyChart, bank statements từ Plaid, wearables từ Apple Health — integration này tạo lock-in thực sự. 4 forces: Push từ fragmented apps (MyChart + Mint + Excel) rất mạnh; Pull từ unified dashboard cũng mạnh; nhưng Anxiety từ privacy/regulatory là rào cản lớn nhất.
+Dấu hiệu sớm: Perplexity đã bị Amazon kiện về Comet (CFAA case, Mar 2026) — cho thấy legal risk khi Perplexity xâm nhập domain có incumbent bảo vệ.
+Revert nguyên lý: Vertical AI đúng khi domain có (1) compliance barrier, (2) data integration depth, (3) workflow complexity mà LLM generalist không cover. Nhưng cần 18–24 tháng để xây trust + pass regulatory — không phải 6 tháng.
