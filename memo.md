@@ -74,3 +74,10 @@ Tuy nhiên, §2 cho thấy tệp power users (30% senior leaders, 80% graduates)
 Revert nguyên lý: Agentic Interface Shift đúng khi target là power users có willingness-to-pay cao (Max tier $200), không đúng khi target mass market. Perplexity nên position Comet là "browser for knowledge workers" thay vì "Chrome killer".
 Dự đoán 2 — Sonar API + Enterprise sẽ vượt consumer subscription thành revenue driver chính
 Dự đoán: Trong 12 tháng tới, Sonar API + Enterprise Pro/Max sẽ chiếm 55–60% ARR, vượt qua consumer subscription. Perplexity sẽ đạt target $656M ARR chủ yếu nhờ B2B/API, không phải Pro/Max consumer.
+Lập luận dẫn từ §1–§2:
+Từ §1 (Mốc 5): Quyết định launch Sonar chạy theo nguyên lý Picks and Shovels. §2 cho thấy consumer AI churn cực cao: AI-native products sub-$50 có GRR chỉ 23%, trong khi B2B SaaS có 63% GRR và API/enterprise có 70–85% .
+Perplexity Pro retention 6 tháng chỉ 49% so với ChatGPT Plus 71%  — consumer subscription không đủ sticky.
+Nhưng Sonar đã có Zoom làm early customer; Enterprise Pro ($40/seat) và Enterprise Max ($325/seat) có SOC 2, HIPAA, SSO — tạo infrastructure lock-in mà consumer UI không có. §2 cho thấy enterprise monthly churn ~1% vs consumer 4%+.
+Revert nguyên lý: Picks and Shovels đúng khi gold rush (AI adoption) đang diễn ra; B2B retention cao hơn vì switching cost không nằm ở UI mà ở integration + compliance + workflow.
+Dự đoán 3 — Vertical AI (Health/Finance) tạo moat đầu tiên nhưng đối mặt regulatory risk cao trong 12 tháng
+Dự đoán: Perplexity Health và Finance sẽ trở thành moat thực sự đầu tiên (vì personal data + compliance không portable), nhưng sẽ phải đối mặt với ít nhất 1 vụ kiện/điều tra regulatory (HIPAA hoặc SEC/financial) trong 12 tháng tới. Timeline để pass scrutiny: 18–24 tháng.
