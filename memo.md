@@ -43,9 +43,17 @@ Nguồn: Product Hunt — Perplexity Health, Twitter/Perplexity — Computer for
 §2 · Tệp user & JTBD
 Early Adopters (2022–2023)
 Table
-Đặc điểm    Chi tiết
+Đặc điểm Chi tiết
 Tệp Researchers, journalists, PhD students, developers, content marketers
-Demographics    80% có bằng cấp đại học trở lên; dùng nhiều nhất vào 9–11 AM; peak day là Tuesday 
-JTBD 1  "Tìm câu trả lời nhanh cho câu hỏi phức tạp mà không cần mở 10 tab trên Google"
-JTBD 2  "Viết báo cáo/luận văn có citation để verify và trích dẫn"
-JTBD 3  "Tránh SEO slop, quảng cáo, và AI Overviews chậm của Google"
+Demographics 80% có bằng cấp đại học trở lên; dùng nhiều nhất vào 9–11 AM; peak day là Tuesday
+JTBD 1 "Tìm câu trả lời nhanh cho câu hỏi phức tạp mà không cần mở 10 tab trên Google"
+JTBD 2 "Viết báo cáo/luận văn có citation để verify và trích dẫn"
+JTBD 3 "Tránh SEO slop, quảng cáo, và AI Overviews chậm của Google"
+Tệp Hiện Tại (2025–2026)
+Table
+Đặc điểm Chi tiết
+Tệp Power knowledge workers (analysts, consultants, lawyers, doctors), enterprise teams, vertical users (health-conscious individuals, finance professionals)
+Demographics 30% là senior company leaders; 65% high-income white-collar; chỉ 19% dùng daily, 27% dùng vài lần/tuần
+JTBD 1 "Tự động hóa deep research workflow — từ query đến deliverable hoàn chỉnh (report, memo, presentation)"
+JTBD 2 "Tạo và share knowledge base nội bộ có nguồn cho team/client"
+JTBD 3 "Quản lý sức khỏe/tài chính cá nhân qua AI có truy cập dữ liệu riêng (EMR, bank statements, wearables)"
