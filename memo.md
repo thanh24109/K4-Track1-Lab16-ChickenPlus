@@ -40,3 +40,12 @@ Cập nhật: Launch 3 vertical products: Perplexity Health (tích hợp EMR, la
 Context: Consumer search đã saturate (30M users vs ChatGPT 1B). AI-native products có switching cost thấp (prompt portable). Cần moat thực sự qua domain expertise + personal data lock-in.
 Nguyên lý: Vertical AI — moat nằm ở domain expertise (HIPAA compliance, financial data integration) + personal data không portable (EMR, bank statements). Đúng khi horizontal AI (chat/search) bị commoditize; vertical là nơi wrapper trở thành platform.
 Nguồn: Product Hunt — Perplexity Health, Twitter/Perplexity — Computer for Professional Finance, Linas Substack — Perplexity Computer Guide
+§2 · Tệp user & JTBD
+Early Adopters (2022–2023)
+Table
+Đặc điểm    Chi tiết
+Tệp Researchers, journalists, PhD students, developers, content marketers
+Demographics    80% có bằng cấp đại học trở lên; dùng nhiều nhất vào 9–11 AM; peak day là Tuesday 
+JTBD 1  "Tìm câu trả lời nhanh cho câu hỏi phức tạp mà không cần mở 10 tab trên Google"
+JTBD 2  "Viết báo cáo/luận văn có citation để verify và trích dẫn"
+JTBD 3  "Tránh SEO slop, quảng cáo, và AI Overviews chậm của Google"
