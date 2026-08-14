@@ -86,3 +86,14 @@ Từ §1 (Mốc 7): Quyết định làm vertical chạy theo nguyên lý Vertic
 Từ §2: Switching cost của AI-native horizontal products thấp (prompt portable, data dễ move). NHƯNG health/finance data không portable: EMR từ Epic/MyChart, bank statements từ Plaid, wearables từ Apple Health — integration này tạo lock-in thực sự. 4 forces: Push từ fragmented apps (MyChart + Mint + Excel) rất mạnh; Pull từ unified dashboard cũng mạnh; nhưng Anxiety từ privacy/regulatory là rào cản lớn nhất.
 Dấu hiệu sớm: Perplexity đã bị Amazon kiện về Comet (CFAA case, Mar 2026) — cho thấy legal risk khi Perplexity xâm nhập domain có incumbent bảo vệ.
 Revert nguyên lý: Vertical AI đúng khi domain có (1) compliance barrier, (2) data integration depth, (3) workflow complexity mà LLM generalist không cover. Nhưng cần 18–24 tháng để xây trust + pass regulatory — không phải 6 tháng.
+§4 · AI Log
+Table
+STT	Việc gì đã làm	AI làm gì	Nhóm phán đoán gì	Kiểm chứng thế nào
+1	Research timeline Perplexity	AI search và tổng hợp milestone từ Taskade, Medium, Product Hunt	Nhóm chọn lọc 7 mốc quyết định sản phẩm (không phải chỉ funding)	Mở trực tiếp từng link nguồn để verify date + context; cross-check giữa 2–3 nguồn cho mỗi mốc
+2	Revert nguyên lý cho từng mốc	AI gợi ý tên nguyên lý (Category Creation, Trust Through Transparency, v.v.)	Nhóm quyết định nguyên lý nào phù hợp nhất; nhóm đánh giá "đúng khi nào"	Đối chiếu với framework đã học trong khóa (Wrapper vs Moat, Vertical AI, 4 forces); dùng kiến thức domain (SaaS pricing, B2B retention) để validate
+3	Phân tích tệp user & JTBD	AI tổng hợp demographics từ Semrush, WARC, Similarweb	Nhóm phân chia early adopters vs tệp hiện tại; nhóm định nghĩa 3 JTBD cho mỗi tệp	Cross-check với Product Hunt reviews (92 reviews, 4.9 rating) để xác nhận JTBD thực của user; đối chiếu với 4 forces framework
+4	Phân tích switching cost	AI cung cấp data churn rate, retention benchmark	Nhóm áp 4 forces vào Perplexity cụ thể; nhóm đánh giá mức độ Push/Pull/Anxiety/Habit	Dùng data từ ChartMogul (Kyle Poyar), Arcade.dev, Userpilot — các source có methodology rõ
+5	3 dự đoán	AI gợi ý direction dựa trên pattern từ timeline	Nhóm viết dự đoán cụ thể (có số %, có timeline); nhóm viết lập luận dẫn từ §1–§2	Mỗi dự đoán phải trace được về ít nhất 1 mốc §1 + 1 yếu tố §2; nhóm tự hỏi "nếu nguyên lý này sai, dự đoán này sụp đổ thế nào?"
+
+ghi chú:Memo này sử dụng AI để research và draft, nhưng mọi phán đoán (chọn mốc, revert nguyên lý, định nghĩa tệp user, viết dự đoán) là của nhóm.
+Mọi mốc trong timeline đã được mở link nguồn gốc kiểm chứng trước khi đưa vào memo.
