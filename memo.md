@@ -35,3 +35,8 @@ Cập nhật: Ra mắt browser AI-native dựa trên Chromium. Comet Assistant c
 Context: Platform shift từ "AI as feature trong browser" → "browser built around AI". OpenAI cũng làm browser (Atlas). Chrome/Safari chiếm 85% market.
 Nguyên lý: Agentic Interface Shift — browser không còn là "window to the web" mà trở thành "cognitive OS". Đúng khi user behavior chuyển từ "navigation" sang "cognition" (không cần click link, chỉ cần hỏi). Nhưng rủi ro: switching cost browser cực cao (habit + extensions + bookmarks).
 Nguồn: Forbes — Perplexity's New AI-First Browser, IBM — Comet: Perplexity's AI browser gets personal
+Mốc 7 — Tháng 4–5/2026: Perplexity Health + Finance + Computer
+Cập nhật: Launch 3 vertical products: Perplexity Health (tích hợp EMR, lab results, wearables), Perplexity Finance (Morningstar, PitchBook data, 35 finance workflows), Perplexity Computer (orchestrate 19 models cho multi-step tasks). ARR tăng từ ~$200M lên ~$450M trong 1 tháng sau Computer launch.
+Context: Consumer search đã saturate (30M users vs ChatGPT 1B). AI-native products có switching cost thấp (prompt portable). Cần moat thực sự qua domain expertise + personal data lock-in.
+Nguyên lý: Vertical AI — moat nằm ở domain expertise (HIPAA compliance, financial data integration) + personal data không portable (EMR, bank statements). Đúng khi horizontal AI (chat/search) bị commoditize; vertical là nơi wrapper trở thành platform.
+Nguồn: Product Hunt — Perplexity Health, Twitter/Perplexity — Computer for Professional Finance, Linas Substack — Perplexity Computer Guide
