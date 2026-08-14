@@ -15,3 +15,13 @@ Cập nhật: Ra mắt công khai với interface chat + citations ngay bên dư
 Context: ChatGPT vừa ra mắt (Nov 2022) và gây sốt, nhưng user nhanh chóng nhận ra hallucination + knowledge cutoff. Perplexity đi vào khoảng trống đó.
 Nguyên lý: Trust Through Transparency — citations là differentiation chính, giải quyết nỗi sợ hallucination (AI "bịa" thông tin). Đúng khi user chưa tin AI "black box"; cần verify được từng claim.
 Nguồn: Taskade — History of Perplexity AI
+Mốc 3 — Năm 2023: Perplexity Pro ($20/tháng) + Mobile Apps
+Cập nhật: Launch tier trả phí Pro ($20/tháng) với unlimited "Pro Search", multi-model access (GPT-4, Claude, v.v.), file upload. Đồng thời ra mắt iOS và Android apps.
+Context: Cần revenue model bền vững; cần reach user ngoài desktop researcher. Consumer AI đang trong giai đoạn "land grab".
+Nguyên lý: Freemium as Acquisition Engine — free tier tạo viral loop + data flywheel; Pro monetize power users có willingness-to-pay cao. Đúng khi marginal cost per query thấp (cloud) và network effect từ usage data tồn tại.
+Nguồn: Finout — Perplexity Pricing 2026, TechJack — Perplexity Pricing Explained
+Mốc 4 — Tháng 5/2024: Perplexity Pages
+Cập nhật: Tính năng biến thread chat thành bài viết/blog post có cấu trúc, có thể edit, format, và share public link. Target educators, team leaders, content creators.
+Context: User không chỉ muốn "tìm" mà còn muốn "tạo và share". Đối đầu với Notion, Google Docs trong khâu research-first content creation.
+Nguyên lý: From Tool to Platform — tăng switching cost bằng cách biến user từ consumer thành creator; tạo content lock-in (user có "tài sản" trên nền tảng). Đúng khi product đã có base user đủ lớn để network effect của content bắt đầu hoạt động.
+Nguồn: How-To Geek — Perplexity AI's Pages, Medium/VinitNeo — Perplexity Pages Analysis
