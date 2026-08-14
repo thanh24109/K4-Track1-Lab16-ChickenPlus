@@ -97,3 +97,4 @@ STT	Việc gì đã làm	AI làm gì	Nhóm phán đoán gì	Kiểm chứng thế
 
 ghi chú:Memo này sử dụng AI để research và draft, nhưng mọi phán đoán (chọn mốc, revert nguyên lý, định nghĩa tệp user, viết dự đoán) là của nhóm.
 Mọi mốc trong timeline đã được mở link nguồn gốc kiểm chứng trước khi đưa vào memo.
+done
