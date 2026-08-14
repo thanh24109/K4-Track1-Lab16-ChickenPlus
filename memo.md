@@ -57,3 +57,11 @@ Demographics 30% là senior company leaders; 65% high-income white-collar; chỉ
 JTBD 1 "Tự động hóa deep research workflow — từ query đến deliverable hoàn chỉnh (report, memo, presentation)"
 JTBD 2 "Tạo và share knowledge base nội bộ có nguồn cho team/client"
 JTBD 3 "Quản lý sức khỏe/tài chính cá nhân qua AI có truy cập dữ liệu riêng (EMR, bank statements, wearables)"
+Switching Cost — 4 Forces
+Table
+Lực    Mô tả    Đánh giá mức độ
+Push (vấn đề với sản phẩm hiện tại)    Google Search quality declining (SEO slop, ads, AI Overviews chậm, không có citation). ChatGPT không có real-time web + hallucination.    Cao — đây là lý do chính user thử Perplexity
+Pull (sức hút cái mới)    Answer có source, nhanh, clean UI, multi-model switching, Deep Research. Comet cho phép "browse without browsing".    Cao — đặc biệt với power users
+Anxiety (nỗi lo chuyển đổi)    Hallucination risk (citation error rate 37–45% ). Privacy concern khi cho AI truy cập health/finance data. Lock-in vào ecosystem Perplexity (Spaces, Pages, Comet bookmarks).    Trung bình — đang tăng khi Perplexity đòi nhiều data cá nhân hơn
+Habit (thói quen cũ)    "Google it" = verb trong tâm trí 20+ năm. Chrome bookmarks/extensions ecosystem khổng lồ. Google ecosystem (Gmail, Drive, Calendar) deeply integrated.    Rất cao — đây là rào cản lớn nhất cho Comet và vertical products
+Nhận xét: Perplexity đã thành công ở phần Push và Pull (acquisition tốt, 200% YoY growth). Nhưng Habit và Anxiety đang là bottleneck cho expansion ra ngoài core researcher segment. Đây là lý do họ chuyển sang vertical (Health/Finance) — nơi Push từ fragmented apps mạnh hơn Habit của any single app.
