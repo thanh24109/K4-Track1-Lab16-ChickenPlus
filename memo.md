@@ -25,3 +25,13 @@ Cập nhật: Tính năng biến thread chat thành bài viết/blog post có c�
 Context: User không chỉ muốn "tìm" mà còn muốn "tạo và share". Đối đầu với Notion, Google Docs trong khâu research-first content creation.
 Nguyên lý: From Tool to Platform — tăng switching cost bằng cách biến user từ consumer thành creator; tạo content lock-in (user có "tài sản" trên nền tảng). Đúng khi product đã có base user đủ lớn để network effect của content bắt đầu hoạt động.
 Nguồn: How-To Geek — Perplexity AI's Pages, Medium/VinitNeo — Perplexity Pages Analysis
+Mốc 5 — Tháng 1/2025: Sonar API
+Cập nhật: Launch API cho developer/enterprise: Sonar (base) và Sonar Pro. Cho phép tích hợp AI search có citation vào app bên thứ ba. Zoom là early customer (dùng cho AI Companion 2.0). Pricing: $1-3/million tokens + $5/1,000 searches.
+Context: Consumer AI churn cực cao (industry median GRR 23-40% cho AI-native sub-$50 products). Cần revenue stable, predictable. B2B/API retention cao hơn hẳn.
+Nguyên lý: Picks and Shovels in a Gold Rush — thay vì chỉ đào vàng (consumer app), bán xẻng (API infrastructure). Đúng khi market đang hype AI và mọi công ty cần embed search; API tạo infrastructure dependency khó thay thế hơn consumer UI.
+Nguồn: TechCrunch — Perplexity launches Sonar API, American Bazaar — Perplexity Sonar API
+Mốc 6 — Tháng 7/2025: Comet Browser
+Cập nhật: Ra mắt browser AI-native dựa trên Chromium. Comet Assistant có thể "nhìn" nội dung tab hiện tại, trả lời câu hỏi context-aware, tự động điền form, so sánh sản phẩm cross-site. Ban đầu exclusive cho Max tier ($200/tháng), sau đó free download (Oct 2025).
+Context: Platform shift từ "AI as feature trong browser" → "browser built around AI". OpenAI cũng làm browser (Atlas). Chrome/Safari chiếm 85% market.
+Nguyên lý: Agentic Interface Shift — browser không còn là "window to the web" mà trở thành "cognitive OS". Đúng khi user behavior chuyển từ "navigation" sang "cognition" (không cần click link, chỉ cần hỏi). Nhưng rủi ro: switching cost browser cực cao (habit + extensions + bookmarks).
+Nguồn: Forbes — Perplexity's New AI-First Browser, IBM — Comet: Perplexity's AI browser gets personal
